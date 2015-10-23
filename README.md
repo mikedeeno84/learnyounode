@@ -1,2 +1,0 @@
-# learnyounode
-contains learnyounode exercises
